@@ -3,11 +3,11 @@
 <br><br>
 <h2>Glimpse of website</h2>
 <br><h3> The Login Page</h3>
-<img src = "login.jpeg">
+<img src = "Login.jpeg">
 <br><h3> The Signup page </h3>
 <img src = "signup.jpeg">
 <br><h3> The Home Page </h3>
-<img src = "home.jpeg">
+<img src = "Home.jpeg">
 <br><h3> The Profile Page </h3>
 <img src = "profile.jpeg">
 <br><h3> Posting New Blog </h3>
